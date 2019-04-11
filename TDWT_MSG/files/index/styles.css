@@ -1,0 +1,19 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(25, 158, 216, 1);
+  background-image:url('../../images/index/bg.jpg');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1920px 1200px;
+  position:relative;
+  left:-0px;
+  width:10px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
